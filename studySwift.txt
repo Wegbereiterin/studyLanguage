@@ -1,0 +1,19 @@
+let : 상수(값이 변하지않는 수)
+var : 변수(값이 변할수 있는 수)
+
+# 출력
+print("아무말")
+
+= "아무말" 출력
+
+===
+
+# 조건문
+
+var isCamera : Bool = false
+
+if isCamera == true {
+	print("카메라입니다.")
+}else {
+	print("카메라가 아닙니다.")
+}
